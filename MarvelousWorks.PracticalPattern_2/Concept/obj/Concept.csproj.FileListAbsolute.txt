@@ -1,0 +1,10 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept\obj\Debug\Concept.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept\obj\Debug\Concept.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept\obj\Debug\Concept.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept\obj\Debug\Concept.pdb

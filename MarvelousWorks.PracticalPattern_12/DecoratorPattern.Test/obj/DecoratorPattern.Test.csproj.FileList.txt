@@ -1,0 +1,6 @@
+..\Output\DecoratorPattern.Test.dll.config
+..\Output\DecoratorPattern.Test.dll
+..\Output\DecoratorPattern.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DecoratorPattern.Test.dll
+obj\Debug\DecoratorPattern.Test.pdb

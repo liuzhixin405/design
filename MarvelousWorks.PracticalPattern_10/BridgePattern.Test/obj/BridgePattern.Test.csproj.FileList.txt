@@ -1,0 +1,6 @@
+..\Output\BridgePattern.Test.dll.config
+..\Output\BridgePattern.Test.dll
+..\Output\BridgePattern.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BridgePattern.Test.dll
+obj\Debug\BridgePattern.Test.pdb

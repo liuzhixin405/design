@@ -1,0 +1,9 @@
+bin\SingletonPattern.Test.Web.dll
+bin\SingletonPattern.Test.Web.pdb
+bin\MarvellousWorks.PracticalPattern.Common.dll
+bin\MarvellousWorks.PracticalPattern.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SingletonPattern.Test.Web.dll
+obj\Debug\SingletonPattern.Test.Web.pdb
+bin\MarvellousWorks.PracticalPattern.SingletonPattern.dll
+bin\MarvellousWorks.PracticalPattern.SingletonPattern.pdb

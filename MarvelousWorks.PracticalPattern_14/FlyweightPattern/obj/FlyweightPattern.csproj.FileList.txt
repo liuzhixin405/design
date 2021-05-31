@@ -1,0 +1,5 @@
+..\Output\FlyweightPattern.dll
+..\Output\FlyweightPattern.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FlyweightPattern.dll
+obj\Debug\FlyweightPattern.pdb

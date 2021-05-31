@@ -1,0 +1,10 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\Output\StatePattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\Output\StatePattern.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\StatePattern\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\StatePattern\obj\Debug\StatePattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\StatePattern\obj\Debug\StatePattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\Output\StatePattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\Output\StatePattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\StatePattern\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\StatePattern\obj\Debug\StatePattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_24\StatePattern\obj\Debug\StatePattern.pdb

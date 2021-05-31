@@ -1,0 +1,10 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\Output\MessageBusPattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\Output\MessageBusPattern.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\MessageBusPattern\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\MessageBusPattern\obj\Debug\MessageBusPattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\MessageBusPattern\obj\Debug\MessageBusPattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\Output\MessageBusPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\Output\MessageBusPattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\MessageBusPattern\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\MessageBusPattern\obj\Debug\MessageBusPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_33\MessageBusPattern\obj\Debug\MessageBusPattern.pdb

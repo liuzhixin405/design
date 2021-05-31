@@ -1,0 +1,7 @@
+bin\Debug\FacadePattern.dll
+bin\Debug\FacadePattern.pdb
+bin\Debug\Common.dll
+bin\Debug\Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FacadePattern.dll
+obj\Debug\FacadePattern.pdb

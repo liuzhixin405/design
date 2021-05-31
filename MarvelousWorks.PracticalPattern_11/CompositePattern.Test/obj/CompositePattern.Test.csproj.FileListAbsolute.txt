@@ -1,0 +1,16 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\Output\CompositePattern.Test.dll.config
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\Output\CompositePattern.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\Output\CompositePattern.Test.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\MarvellousWorks.PracticalPattern.CompositePattern.Test.Resource.resources
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\CompositePattern.Test.csproj.GenerateResource.Cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\CompositePattern.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\CompositePattern.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\Output\CompositePattern.Test.dll.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\Output\CompositePattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\Output\CompositePattern.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\MarvellousWorks.PracticalPattern.CompositePattern.Test.Resource.resources
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\CompositePattern.Test.csproj.GenerateResource.Cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\CompositePattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_11\CompositePattern.Test\obj\Debug\CompositePattern.Test.pdb

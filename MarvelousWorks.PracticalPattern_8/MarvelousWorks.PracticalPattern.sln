@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D96098CA-0850-432E-8810-96C6EA8D1915}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A635AEF7-F2A6-49DD-9AB5-8BF588D54600}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+		MarvelousWorks.PracticalPattern.vsmdi = MarvelousWorks.PracticalPattern.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{A3D44678-8C4B-4C2D-B405-3026CA4F794C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern.Test", "PrototypePattern.Test\PrototypePattern.Test.csproj", "{D3921D70-83E8-4970-9DFB-84274FC199B8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D44678-8C4B-4C2D-B405-3026CA4F794C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D44678-8C4B-4C2D-B405-3026CA4F794C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D44678-8C4B-4C2D-B405-3026CA4F794C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D44678-8C4B-4C2D-B405-3026CA4F794C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3921D70-83E8-4970-9DFB-84274FC199B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3921D70-83E8-4970-9DFB-84274FC199B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3921D70-83E8-4970-9DFB-84274FC199B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3921D70-83E8-4970-9DFB-84274FC199B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

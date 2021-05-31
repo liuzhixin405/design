@@ -1,0 +1,9 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\bin\SingletonPattern.Test.Web.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\bin\SingletonPattern.Test.Web.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\bin\MarvellousWorks.PracticalPattern.Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\bin\MarvellousWorks.PracticalPattern.SingletonPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\bin\MarvellousWorks.PracticalPattern.SingletonPattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\bin\MarvellousWorks.PracticalPattern.Common.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\obj\Debug\SingletonPattern.Test.Web.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern.Test.Web\obj\Debug\SingletonPattern.Test.Web.pdb

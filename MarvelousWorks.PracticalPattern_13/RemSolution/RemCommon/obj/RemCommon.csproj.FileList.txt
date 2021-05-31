@@ -1,0 +1,5 @@
+..\Output\RemCommon.dll
+..\Output\RemCommon.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemCommon.dll
+obj\Debug\RemCommon.pdb

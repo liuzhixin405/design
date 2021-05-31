@@ -1,0 +1,10 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\FacadePattern.Test.dll.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\FacadePattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\FacadePattern.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\FacadePattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\Common.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\bin\Debug\FacadePattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\obj\Debug\FacadePattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_13\FacadePattern.Test\obj\Debug\FacadePattern.Test.pdb

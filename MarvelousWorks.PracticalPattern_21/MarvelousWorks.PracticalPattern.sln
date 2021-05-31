@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D96098CA-0850-432E-8810-96C6EA8D1915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{15994BF1-282E-493A-846D-A82E8FE23B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern.Test", "MediatorPattern.Test\MediatorPattern.Test.csproj", "{EF96BB7A-F494-4F18-BFC0-296FE97BF138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15994BF1-282E-493A-846D-A82E8FE23B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15994BF1-282E-493A-846D-A82E8FE23B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15994BF1-282E-493A-846D-A82E8FE23B48}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{15994BF1-282E-493A-846D-A82E8FE23B48}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{15994BF1-282E-493A-846D-A82E8FE23B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15994BF1-282E-493A-846D-A82E8FE23B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF96BB7A-F494-4F18-BFC0-296FE97BF138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF96BB7A-F494-4F18-BFC0-296FE97BF138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF96BB7A-F494-4F18-BFC0-296FE97BF138}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF96BB7A-F494-4F18-BFC0-296FE97BF138}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{EF96BB7A-F494-4F18-BFC0-296FE97BF138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF96BB7A-F494-4F18-BFC0-296FE97BF138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

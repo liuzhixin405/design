@@ -1,0 +1,5 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Output\MarvellousWorks.PracticalPattern.SingletonPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Output\MarvellousWorks.PracticalPattern.SingletonPattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern\obj\Debug\MarvellousWorks.PracticalPattern.SingletonPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\SingletonPattern\obj\Debug\MarvellousWorks.PracticalPattern.SingletonPattern.pdb

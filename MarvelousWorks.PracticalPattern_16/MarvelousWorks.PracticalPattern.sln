@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{70B994A1-308B-456E-A0C4-7A4C1BFF97C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern.Test", "ChainOfResponsibilityPattern.Test\ChainOfResponsibilityPattern.Test.csproj", "{21B0D820-64BC-4C2E-B6DC-994F3538911C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D96098CA-0850-432E-8810-96C6EA8D1915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B994A1-308B-456E-A0C4-7A4C1BFF97C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B994A1-308B-456E-A0C4-7A4C1BFF97C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B994A1-308B-456E-A0C4-7A4C1BFF97C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B994A1-308B-456E-A0C4-7A4C1BFF97C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B0D820-64BC-4C2E-B6DC-994F3538911C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B0D820-64BC-4C2E-B6DC-994F3538911C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B0D820-64BC-4C2E-B6DC-994F3538911C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B0D820-64BC-4C2E-B6DC-994F3538911C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

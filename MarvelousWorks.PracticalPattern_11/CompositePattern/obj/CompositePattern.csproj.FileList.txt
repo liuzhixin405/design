@@ -1,0 +1,5 @@
+..\Output\CompositePattern.dll
+..\Output\CompositePattern.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CompositePattern.dll
+obj\Debug\CompositePattern.pdb

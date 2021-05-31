@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D96098CA-0850-432E-8810-96C6EA8D1915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{F28368D7-E867-4ECF-8976-BEA186965C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern.Test", "TemplatePattern.Test\TemplatePattern.Test.csproj", "{2F0E83F5-58DB-48F0-AA2E-0C42437A603B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28368D7-E867-4ECF-8976-BEA186965C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28368D7-E867-4ECF-8976-BEA186965C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28368D7-E867-4ECF-8976-BEA186965C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28368D7-E867-4ECF-8976-BEA186965C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0E83F5-58DB-48F0-AA2E-0C42437A603B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0E83F5-58DB-48F0-AA2E-0C42437A603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0E83F5-58DB-48F0-AA2E-0C42437A603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0E83F5-58DB-48F0-AA2E-0C42437A603B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

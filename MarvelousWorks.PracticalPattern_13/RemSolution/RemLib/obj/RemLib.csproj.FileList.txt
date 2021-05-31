@@ -1,0 +1,5 @@
+..\Output\RemLib.dll
+..\Output\RemLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemLib.dll
+obj\Debug\RemLib.pdb

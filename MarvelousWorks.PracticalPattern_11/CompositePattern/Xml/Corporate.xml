@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<corporate>
+  <president/>
+  <vicePresident/>
+  <department name="market">
+    <employee name="judi"/>
+  </department>
+  <department name="sales">
+    <employee name="joe"/>
+    <employee name="bob"/>
+  </department>
+  <branch>
+    <manager/>
+    <employee name="peter"/>
+  </branch>
+</corporate>

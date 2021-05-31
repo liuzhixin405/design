@@ -1,0 +1,12 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.Test.dll.config
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.Test.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept.Test\obj\Debug\Concept.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept.Test\obj\Debug\Concept.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.Test.dll.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Output\Concept.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept.Test\obj\Debug\Concept.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_2\Concept.Test\obj\Debug\Concept.Test.pdb

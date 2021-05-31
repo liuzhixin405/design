@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemSolution">
+</Property><Property Name="Solution File" Value="E:\RemSolution\RemSolution.sln">
+</Property><Property Name="Date" Value="Tuesday, November 27, 2007">
+</Property><Property Name="Time" Value="15:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="RemHost" Source="RemHost\RemHost.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemHost" Source="RemHost\RemHost.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemCommon" Source="RemCommon\RemCommon.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemCommon" Source="RemCommon\RemCommon.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemServiceChannel" Source="RemServiceChannel\RemServiceChannel.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemServiceChannel" Source="RemServiceChannel\RemServiceChannel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemLib" Source="RemLib\RemLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemLib" Source="RemLib\RemLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemClientChannel" Source="RemClientChannel\RemClientChannel.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemClientChannel" Source="RemClientChannel\RemClientChannel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemClient" Source="RemClient\RemClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemClient" Source="RemClient\RemClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemSolution.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RemSolution.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemHost" Source="RemHost\RemHost.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RemCommon" Source="RemCommon\RemCommon.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RemServiceChannel" Source="RemServiceChannel\RemServiceChannel.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RemLib" Source="RemLib\RemLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RemClientChannel" Source="RemClientChannel\RemClientChannel.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RemClient" Source="RemClient\RemClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D96098CA-0850-432E-8810-96C6EA8D1915}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceEventMonitor.Client", "WebServiceEventMonitor.Client\WebServiceEventMonitor.Client.csproj", "{AEC6AC3B-BA99-40AE-B996-1C00F3460329}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceEventMonitor.Server", "WebServiceEventMonitor.Server\WebServiceEventMonitor.Server.csproj", "{59199944-A31C-4675-9BE3-86851CEF9C20}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceEventMonitor.Common", "WebServiceEventMonitor.Common\WebServiceEventMonitor.Common.csproj", "{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC6AC3B-BA99-40AE-B996-1C00F3460329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC6AC3B-BA99-40AE-B996-1C00F3460329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC6AC3B-BA99-40AE-B996-1C00F3460329}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC6AC3B-BA99-40AE-B996-1C00F3460329}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{AEC6AC3B-BA99-40AE-B996-1C00F3460329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC6AC3B-BA99-40AE-B996-1C00F3460329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59199944-A31C-4675-9BE3-86851CEF9C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59199944-A31C-4675-9BE3-86851CEF9C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59199944-A31C-4675-9BE3-86851CEF9C20}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{59199944-A31C-4675-9BE3-86851CEF9C20}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{59199944-A31C-4675-9BE3-86851CEF9C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59199944-A31C-4675-9BE3-86851CEF9C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F9F44-89D6-47CA-8E1E-191F4E31FEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+.\bin\Debug\FactoryMethod.Test.dll
+.\bin\Debug\FactoryMethod.Test.pdb
+.\bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+.\bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FactoryMethod.Test.dll
+obj\Debug\FactoryMethod.Test.pdb
+.\bin\Debug\MarvellousWorks.PracticalPattern.Common.dll
+.\bin\Debug\MarvellousWorks.PracticalPattern.Common.pdb
+.\bin\Debug\FactoryMethod.Test.dll.config

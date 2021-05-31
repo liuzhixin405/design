@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D96098CA-0850-432E-8810-96C6EA8D1915}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Test", "Common.Test\Common.Test.csproj", "{A9541252-0D4E-4D9A-958D-FCDB4A924451}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A635AEF7-F2A6-49DD-9AB5-8BF588D54600}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+		MarvelousWorks.PracticalPattern.vsmdi = MarvelousWorks.PracticalPattern.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Test.Windows", "Common.Test.Windows\Common.Test.Windows.csproj", "{1A6170EC-06FC-45E1-90CA-50FBD8FED105}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Test.Web", "Common.Test.Web\Common.Test.Web.csproj", "{CD694808-3153-4715-A4F2-6E3660C589B8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MarvelousWorks.PracticalPattern.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96098CA-0850-432E-8810-96C6EA8D1915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9541252-0D4E-4D9A-958D-FCDB4A924451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9541252-0D4E-4D9A-958D-FCDB4A924451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9541252-0D4E-4D9A-958D-FCDB4A924451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9541252-0D4E-4D9A-958D-FCDB4A924451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6170EC-06FC-45E1-90CA-50FBD8FED105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6170EC-06FC-45E1-90CA-50FBD8FED105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6170EC-06FC-45E1-90CA-50FBD8FED105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6170EC-06FC-45E1-90CA-50FBD8FED105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD694808-3153-4715-A4F2-6E3660C589B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD694808-3153-4715-A4F2-6E3660C589B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD694808-3153-4715-A4F2-6E3660C589B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD694808-3153-4715-A4F2-6E3660C589B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

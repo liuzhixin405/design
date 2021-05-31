@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/ServiceModelSamples/service?wsdl"
+		Name="ContactService"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:8000/ServiceModelSamples/service"
+			BindingConfiguration="WSHttpBinding_IContact"
+			Contract="MarvellousWorks.PracticalPattern.WebServiceDTO.Client.ContactService.IContact"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

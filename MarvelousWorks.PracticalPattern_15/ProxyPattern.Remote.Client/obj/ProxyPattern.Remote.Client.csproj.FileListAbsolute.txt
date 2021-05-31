@@ -1,0 +1,12 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\Output\ProxyPattern.Remote.Client.exe.config
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\Output\ProxyPattern.Remote.Client.exe
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\Output\ProxyPattern.Remote.Client.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\ProxyPattern.Remote.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\ProxyPattern.Remote.Client\obj\Debug\ProxyPattern.Remote.Client.exe
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\ProxyPattern.Remote.Client\obj\Debug\ProxyPattern.Remote.Client.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\Output\ProxyPattern.Remote.Client.exe.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\ProxyPattern.Remote.Client\obj\Debug\ProxyPattern.Remote.Client.exe
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\ProxyPattern.Remote.Client\obj\Debug\ProxyPattern.Remote.Client.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\Output\ProxyPattern.Remote.Client.exe
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\Output\ProxyPattern.Remote.Client.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_15\ProxyPattern.Remote.Client\obj\Debug\ResolveAssemblyReference.cache

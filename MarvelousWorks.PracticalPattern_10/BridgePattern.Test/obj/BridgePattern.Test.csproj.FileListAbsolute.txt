@@ -1,0 +1,12 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\Output\BridgePattern.Test.dll.config
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\Output\BridgePattern.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\Output\BridgePattern.Test.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\BridgePattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\BridgePattern.Test\obj\Debug\BridgePattern.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\BridgePattern.Test\obj\Debug\BridgePattern.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\Output\BridgePattern.Test.dll.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\Output\BridgePattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\Output\BridgePattern.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\BridgePattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\BridgePattern.Test\obj\Debug\BridgePattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_10\BridgePattern.Test\obj\Debug\BridgePattern.Test.pdb

@@ -1,0 +1,9 @@
+bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
+bin\Debug\MarvellousWorks.PracticalPattern.Common.dll
+bin\Debug\MarvellousWorks.PracticalPattern.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+..\Output\MarvellousWorks.PracticalPattern.SingletonPattern.dll
+..\Output\MarvellousWorks.PracticalPattern.SingletonPattern.pdb
+obj\Debug\MarvellousWorks.PracticalPattern.SingletonPattern.dll
+obj\Debug\MarvellousWorks.PracticalPattern.SingletonPattern.pdb

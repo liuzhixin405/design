@@ -1,0 +1,8 @@
+..\Output\RemClient.exe.config
+obj\Debug\RemClient.exe
+obj\Debug\RemClient.pdb
+..\Output\RemClient.exe
+..\Output\RemClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemClient.csproj.GenerateResource.Cache
+obj\Debug\Test.Rem.Client.ClientForm.resources

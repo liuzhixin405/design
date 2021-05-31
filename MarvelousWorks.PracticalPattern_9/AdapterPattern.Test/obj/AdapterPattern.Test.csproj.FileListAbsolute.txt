@@ -1,0 +1,6 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_9\Output\AdapterPattern.Test.dll.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_9\Output\AdapterPattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_9\Output\AdapterPattern.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_9\AdapterPattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_9\AdapterPattern.Test\obj\Debug\AdapterPattern.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_9\AdapterPattern.Test\obj\Debug\AdapterPattern.Test.pdb

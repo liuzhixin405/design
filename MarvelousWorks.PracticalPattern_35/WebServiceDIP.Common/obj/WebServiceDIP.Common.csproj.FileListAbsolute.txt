@@ -1,0 +1,17 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\WebServiceDIP.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\WebServiceDIP.Common\obj\Debug\WebServiceDIP.Common.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\WebServiceDIP.Common\obj\Debug\WebServiceDIP.Common.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\Output\WebServiceDIP.Common.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\Output\WebServiceDIP.Common.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\WebServiceDIP.Common\Bin\WebServiceDIP.Common.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_34\WebServiceDIP.Common\Bin\WebServiceDIP.Common.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\Bin\WebServiceDIP.Common.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\Bin\WebServiceDIP.Common.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\obj\Debug\WebServiceDIP.Common.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\obj\Debug\WebServiceDIP.Common.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\Bin\WebServiceDIP.Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\Bin\WebServiceDIP.Common.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\obj\Debug\WebServiceDIP.Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_35\WebServiceDIP.Common\obj\Debug\WebServiceDIP.Common.pdb

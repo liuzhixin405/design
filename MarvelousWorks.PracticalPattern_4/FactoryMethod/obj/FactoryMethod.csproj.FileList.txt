@@ -1,0 +1,7 @@
+bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+obj\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
+bin\Debug\MarvellousWorks.PracticalPattern.Common.dll
+bin\Debug\MarvellousWorks.PracticalPattern.Common.pdb

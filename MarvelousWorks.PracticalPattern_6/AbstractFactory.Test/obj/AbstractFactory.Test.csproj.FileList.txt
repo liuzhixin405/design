@@ -1,0 +1,6 @@
+..\Output\AbstractFactory.Test.dll.config
+..\Output\AbstractFactory.Test.dll
+..\Output\AbstractFactory.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AbstractFactory.Test.dll
+obj\Debug\AbstractFactory.Test.pdb

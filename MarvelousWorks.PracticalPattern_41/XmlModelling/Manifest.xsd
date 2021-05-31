@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 (http://www.altova.com) by TEAM ViRiLiTY (VRL) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="manifest">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="list">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="item" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="productID" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="container" minOccurs="0">
+					<xs:complexType>
+						<xs:attribute name="weight" use="required"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="workflow">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="step" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="modify" minOccurs="0">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="item" minOccurs="0" maxOccurs="unbounded">
+														<xs:complexType>
+															<xs:attribute name="name" use="required"/>
+															<xs:attribute name="old" use="required"/>
+															<xs:attribute name="new" use="required"/>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="id" use="required"/>
+									<xs:attribute name="createDate" use="required"/>
+									<xs:attribute name="note" use="optional"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="id" use="required"/>
+			<xs:attribute name="customerID" use="required"/>
+			<xs:attribute name="employeeID" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

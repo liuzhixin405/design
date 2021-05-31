@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5B621EA-E5A8-42A0-9A9B-F7D8E26DC50A}"
+	ProjectSection(SolutionItems) = preProject
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+		MarvelousWorks.PracticalPattern.vsmdi = MarvelousWorks.PracticalPattern.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concept", "Concept\Concept.csproj", "{4166839C-5B13-467C-9D85-1B79E9F01CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concept.Test", "Concept.Test\Concept.Test.csproj", "{DE36F616-4C8A-454E-AFD7-A9B16D90EEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{15713DC9-2FFB-4C82-8E1A-FACE747712BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Test", "DependencyInjection.Test\DependencyInjection.Test.csproj", "{6A7DBA0F-30B1-46AF-9894-36315C1D37F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4166839C-5B13-467C-9D85-1B79E9F01CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4166839C-5B13-467C-9D85-1B79E9F01CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4166839C-5B13-467C-9D85-1B79E9F01CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4166839C-5B13-467C-9D85-1B79E9F01CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE36F616-4C8A-454E-AFD7-A9B16D90EEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE36F616-4C8A-454E-AFD7-A9B16D90EEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE36F616-4C8A-454E-AFD7-A9B16D90EEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE36F616-4C8A-454E-AFD7-A9B16D90EEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15713DC9-2FFB-4C82-8E1A-FACE747712BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15713DC9-2FFB-4C82-8E1A-FACE747712BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15713DC9-2FFB-4C82-8E1A-FACE747712BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15713DC9-2FFB-4C82-8E1A-FACE747712BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7DBA0F-30B1-46AF-9894-36315C1D37F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7DBA0F-30B1-46AF-9894-36315C1D37F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7DBA0F-30B1-46AF-9894-36315C1D37F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7DBA0F-30B1-46AF-9894-36315C1D37F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8657E3C0-67C6-4FC5-BBA2-D86FCA1A8E53}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MarvelousWorks.PracticalPattern.vsmdi
+	EndGlobalSection
+EndGlobal

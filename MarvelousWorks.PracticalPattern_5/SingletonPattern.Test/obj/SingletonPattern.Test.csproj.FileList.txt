@@ -1,0 +1,11 @@
+bin\Debug\SingletonPattern.Test.dll.config
+bin\Debug\SingletonPattern.Test.dll
+bin\Debug\SingletonPattern.Test.pdb
+bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SingletonPattern.Test.dll
+obj\Debug\SingletonPattern.Test.pdb
+..\Output\SingletonPattern.Test.dll.config
+..\Output\SingletonPattern.Test.dll
+..\Output\SingletonPattern.Test.pdb

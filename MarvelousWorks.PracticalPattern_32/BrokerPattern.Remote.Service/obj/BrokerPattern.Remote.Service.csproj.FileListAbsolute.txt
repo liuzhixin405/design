@@ -1,0 +1,6 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_32\BrokerPattern.Remote.Service\bin\Debug\BrokerPattern.Remote.Service.exe.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_32\BrokerPattern.Remote.Service\bin\Debug\BrokerPattern.Remote.Service.exe
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_32\BrokerPattern.Remote.Service\bin\Debug\BrokerPattern.Remote.Service.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_32\BrokerPattern.Remote.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_32\BrokerPattern.Remote.Service\obj\Debug\BrokerPattern.Remote.Service.exe
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_32\BrokerPattern.Remote.Service\obj\Debug\BrokerPattern.Remote.Service.pdb

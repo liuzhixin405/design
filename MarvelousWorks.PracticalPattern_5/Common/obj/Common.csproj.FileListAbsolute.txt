@@ -1,0 +1,5 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Output\MarvellousWorks.PracticalPattern.Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Output\MarvellousWorks.PracticalPattern.Common.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Common\obj\Debug\MarvellousWorks.PracticalPattern.Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_5\Common\obj\Debug\MarvellousWorks.PracticalPattern.Common.pdb

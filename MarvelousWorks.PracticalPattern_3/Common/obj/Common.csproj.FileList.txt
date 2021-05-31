@@ -1,0 +1,5 @@
+..\Output\MarvellousWorks.PracticalPattern.Common.dll
+..\Output\MarvellousWorks.PracticalPattern.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MarvellousWorks.PracticalPattern.Common.dll
+obj\Debug\MarvellousWorks.PracticalPattern.Common.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 (http://www.altova.com) by Vision (VisionLogic) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="LanguageDefinition">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="link" minOccurs="0"/>
+				<xs:element name="environmentVariable" minOccurs="0"/>
+				<xs:element name="globalVariable" minOccurs="0"/>
+				<xs:element name="dictionary" minOccurs="0"/>
+				<xs:element name="procedure" maxOccurs="unbounded"/>
+				<xs:element name="extension" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="version"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

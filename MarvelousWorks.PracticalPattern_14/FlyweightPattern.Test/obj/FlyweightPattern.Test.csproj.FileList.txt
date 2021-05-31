@@ -1,0 +1,10 @@
+bin\Debug\FlyweightPattern.Test.dll.config
+bin\Debug\FlyweightPattern.Test.dll
+bin\Debug\FlyweightPattern.Test.pdb
+bin\Debug\Common.dll
+bin\Debug\FlyweightPattern.dll
+bin\Debug\Common.pdb
+bin\Debug\FlyweightPattern.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FlyweightPattern.Test.dll
+obj\Debug\FlyweightPattern.Test.pdb

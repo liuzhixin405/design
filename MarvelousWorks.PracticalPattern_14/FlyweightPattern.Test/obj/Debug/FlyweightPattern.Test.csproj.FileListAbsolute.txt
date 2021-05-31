@@ -1,0 +1,10 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\obj\Debug\FlyweightPattern.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\obj\Debug\FlyweightPattern.Test.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\FlyweightPattern.Test.dll.config
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\FlyweightPattern.Test.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\FlyweightPattern.Test.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\Common.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\FlyweightPattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\Common.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_14\FlyweightPattern.Test\bin\Debug\FlyweightPattern.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <connectionStrings>
+    <add name="Northwind" connectionString="Data Source=(local);Integrated Security=SSPI;&#xD;&#xA;         Initial Catalog=Northwind; Asynchronous Processing=true" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="TestDriven.TestRunner" publicKeyToken="50ecb853f8c6b8d2" culture="neutral" />
+        <bindingRedirect oldVersion="2.1.1966.0" newVersion="2.1.1966.0" />
+        <codeBase version="2.1.1966.0" href="file:///C:/Program Files/TestDriven.NET 2.1/TestDriven.TestRunner.DLL" />
+      </dependentAssembly>
+    </assemblyBinding>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="TestDriven.Framework" publicKeyToken="50ecb853f8c6b8d2" culture="neutral" />
+        <bindingRedirect oldVersion="2.0.0.0" newVersion="2.0.0.0" />
+        <codeBase version="2.0.0.0" href="file:///C:/Program Files/TestDriven.NET 2.1/TestDriven.Framework.DLL" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>

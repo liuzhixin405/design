@@ -1,0 +1,6 @@
+..\Output\MarvellousWorks.PracticalPattern.Common.Test.dll
+..\Output\MarvellousWorks.PracticalPattern.Common.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MarvellousWorks.PracticalPattern.Common.Test.dll
+obj\Debug\MarvellousWorks.PracticalPattern.Common.Test.pdb
+..\Output\MarvellousWorks.PracticalPattern.Common.Test.dll.config

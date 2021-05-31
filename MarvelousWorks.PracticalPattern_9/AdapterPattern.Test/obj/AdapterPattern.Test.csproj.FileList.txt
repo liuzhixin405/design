@@ -1,0 +1,6 @@
+..\Output\AdapterPattern.Test.dll.config
+..\Output\AdapterPattern.Test.dll
+..\Output\AdapterPattern.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AdapterPattern.Test.dll
+obj\Debug\AdapterPattern.Test.pdb

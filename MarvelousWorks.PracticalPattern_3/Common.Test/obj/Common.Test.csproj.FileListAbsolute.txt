@@ -1,0 +1,6 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_3\Output\MarvellousWorks.PracticalPattern.Common.Test.dll.config
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_3\Output\MarvellousWorks.PracticalPattern.Common.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_3\Output\MarvellousWorks.PracticalPattern.Common.Test.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_3\Common.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_3\Common.Test\obj\Debug\MarvellousWorks.PracticalPattern.Common.Test.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_3\Common.Test\obj\Debug\MarvellousWorks.PracticalPattern.Common.Test.pdb

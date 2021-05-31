@@ -1,0 +1,6 @@
+..\Output\RemHost.exe.config
+obj\Debug\RemHost.exe
+obj\Debug\RemHost.pdb
+..\Output\RemHost.exe
+..\Output\RemHost.pdb
+obj\Debug\ResolveAssemblyReference.cache

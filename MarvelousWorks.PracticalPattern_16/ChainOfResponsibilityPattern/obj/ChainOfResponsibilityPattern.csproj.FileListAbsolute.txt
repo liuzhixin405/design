@@ -1,0 +1,10 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\Output\ChainOfResponsibilityPattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\Output\ChainOfResponsibilityPattern.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\ChainOfResponsibilityPattern\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\Output\ChainOfResponsibilityPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\Output\ChainOfResponsibilityPattern.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\ChainOfResponsibilityPattern\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_16\ChainOfResponsibilityPattern\obj\Debug\ChainOfResponsibilityPattern.pdb

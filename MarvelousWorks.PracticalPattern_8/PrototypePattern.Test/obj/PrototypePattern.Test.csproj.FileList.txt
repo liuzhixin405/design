@@ -1,0 +1,6 @@
+..\Output\PrototypePattern.Test.dll.config
+..\Output\PrototypePattern.Test.dll
+..\Output\PrototypePattern.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrototypePattern.Test.dll
+obj\Debug\PrototypePattern.Test.pdb

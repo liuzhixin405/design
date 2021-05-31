@@ -1,0 +1,90 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4166839C-5B13-467C-9D85-1B79E9F01CE2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MarvellousWorks.PracticalPattern.Concept</RootNamespace>
+    <AssemblyName>Concept</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accessories\Client.cs" />
+    <Compile Include="Attributing\AttributedBuilder.cs" />
+    <Compile Include="Configurating\ChapterConfigurationSectionGroup.cs" />
+    <Compile Include="Configurating\ConfigurationBroker.cs" />
+    <Compile Include="Configurating\NamedConfigurationElement.cs" />
+    <Compile Include="Configurating\NamedConfigurationElementCollection.cs" />
+    <Compile Include="Configurating\ParagraphConfigurationSection.cs" />
+    <Compile Include="Delegating\AnonymousInvoker.cs" />
+    <Compile Include="Delegating\AsyncInvoker.cs" />
+    <Compile Include="Delegating\InvokeList.cs" />
+    <Compile Include="Delegating\MulticastDelegateInvoker.cs" />
+    <Compile Include="Delegating\OverloadableDelegateInvoker.cs" />
+    <Compile Include="Delegating\SmartDelegateInvoker.cs" />
+    <Compile Include="Delegating\UglySmartDelegateInvoker.cs" />
+    <Compile Include="Delegating\StringAssignmentEventHandler.cs" />
+    <Compile Include="Generics\CommonTypeConstraint.cs" />
+    <Compile Include="Generics\ExtractableClassBase.cs" />
+    <Compile Include="Generics\GenericAdapterBase.cs" />
+    <Compile Include="Generics\LogicalConstraint.cs" />
+    <Compile Include="Generics\RawGenericFactory.cs" />
+    <Compile Include="Indexer\FederateIndexer.cs" />
+    <Compile Include="Indexer\FederateIndexerEntity.cs" />
+    <Compile Include="Indexer\MultiColumnCollection.cs" />
+    <Compile Include="Indexer\SingleColumnCollection.cs" />
+    <Compile Include="Iterating\IteratorDataEntity.cs" />
+    <Compile Include="Iterating\CompositeIterator.cs" />
+    <Compile Include="Iterating\RawIterator.cs" />
+    <Compile Include="Operator\CommonCalcultor.cs" />
+    <Compile Include="Operator\DoubleNumber.cs" />
+    <Compile Include="Operator\ErrorEntity.cs" />
+    <Compile Include="Operator\TypeAdapter.cs" />
+    <Compile Include="Operator\UglyCalculator.cs" />
+    <Compile Include="Operator\Season.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="key.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

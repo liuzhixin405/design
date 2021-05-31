@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mappings>
+  <entity name="customer">
+    <map source="id" target="CustomerID"/>
+    <map source="companyName" target="Company"/>
+    <map source="phone" target="Phone"/>
+  </entity>
+  <entity name="shipper">
+    <map source="id" target="TargetID"/>
+    <map source="name" target="Name"/>
+  </entity>
+</mappings>

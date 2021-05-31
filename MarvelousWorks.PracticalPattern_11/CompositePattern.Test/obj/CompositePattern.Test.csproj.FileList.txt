@@ -1,0 +1,8 @@
+..\Output\CompositePattern.Test.dll.config
+..\Output\CompositePattern.Test.dll
+..\Output\CompositePattern.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CompositePattern.Test.dll
+obj\Debug\CompositePattern.Test.pdb
+obj\Debug\MarvellousWorks.PracticalPattern.CompositePattern.Test.Resource.resources
+obj\Debug\CompositePattern.Test.csproj.GenerateResource.Cache

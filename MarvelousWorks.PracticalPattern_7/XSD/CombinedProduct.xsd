@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 sp1 (http://www.altova.com) by Administrator (Vision) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Product">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Features">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Feature" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="Name" type="xs:string" use="required"/>
+									<xs:attribute name="Description" type="xs:string"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="Name" type="xs:string" use="required"/>
+			<xs:attribute name="Price" type="xs:double"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

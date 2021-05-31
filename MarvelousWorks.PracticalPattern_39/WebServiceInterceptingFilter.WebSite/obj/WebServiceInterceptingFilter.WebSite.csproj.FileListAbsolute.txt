@@ -1,0 +1,10 @@
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\bin\WebServiceInterceptingFilter.WebSite.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\bin\WebServiceInterceptingFilter.WebSite.pdb
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\obj\Debug\ResolveAssemblyReference.cache
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\obj\Debug\WebServiceInterceptingFilter.WebSite.dll
+E:\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\obj\Debug\WebServiceInterceptingFilter.WebSite.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\bin\WebServiceInterceptingFilter.WebSite.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\bin\WebServiceInterceptingFilter.WebSite.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\obj\Debug\WebServiceInterceptingFilter.WebSite.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_39\WebServiceInterceptingFilter.WebSite\obj\Debug\WebServiceInterceptingFilter.WebSite.pdb

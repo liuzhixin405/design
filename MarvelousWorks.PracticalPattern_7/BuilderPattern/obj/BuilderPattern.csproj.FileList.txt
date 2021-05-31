@@ -1,0 +1,5 @@
+..\Output\BuilderPattern.dll
+..\Output\BuilderPattern.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BuilderPattern.dll
+obj\Debug\BuilderPattern.pdb

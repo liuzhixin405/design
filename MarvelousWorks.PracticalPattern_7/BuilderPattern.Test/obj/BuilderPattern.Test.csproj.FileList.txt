@@ -1,0 +1,10 @@
+bin\Debug\BuilderPattern.Test.dll.config
+bin\Debug\BuilderPattern.Test.dll
+bin\Debug\BuilderPattern.Test.pdb
+bin\Debug\BuilderPattern.dll
+bin\Debug\Common.dll
+bin\Debug\BuilderPattern.pdb
+bin\Debug\Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BuilderPattern.Test.dll
+obj\Debug\BuilderPattern.Test.pdb

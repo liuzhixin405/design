@@ -1,0 +1,7 @@
+bin\Common.Test.Web.dll
+bin\Common.Test.Web.pdb
+bin\MarvellousWorks.PracticalPattern.Common.dll
+bin\MarvellousWorks.PracticalPattern.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Common.Test.Web.dll
+obj\Debug\Common.Test.Web.pdb

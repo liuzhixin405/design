@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<composite name="corporate">
+  <leaf name="president"/>
+  <leaf name="vice president"/>
+  <composite name="market">
+    <leaf name="judi"/>
+  </composite>
+  <composite name="sales">
+    <leaf name="joe"/>
+    <leaf name="bob"/>
+  </composite>
+  <composite name="branch">
+    <leaf name="manager"/>
+    <leaf name="peter"/>
+  </composite>
+</composite>
+

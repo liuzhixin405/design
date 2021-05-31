@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/ServiceModelSamples/service"
+		Name="QuoteService"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:8000/ServiceModelSamples/service"
+			BindingConfiguration="WSHttpBinding_IQuote"
+			Contract="MarvellousWorks.PracticalPattern.WebServiceDIP.Client.QuoteService.IQuote"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

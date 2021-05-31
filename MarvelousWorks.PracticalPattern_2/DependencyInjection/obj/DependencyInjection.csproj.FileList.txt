@@ -1,0 +1,5 @@
+bin\Debug\DependencyInjection.dll
+bin\Debug\DependencyInjection.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DependencyInjection.dll
+obj\Debug\DependencyInjection.pdb

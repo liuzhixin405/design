@@ -1,0 +1,5 @@
+..\Output\RemClientChannel.dll
+..\Output\RemClientChannel.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemClientChannel.dll
+obj\Debug\RemClientChannel.pdb

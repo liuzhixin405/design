@@ -1,0 +1,11 @@
+.\bin\Debug\Concept.Test.dll
+.\bin\Debug\Concept.Test.pdb
+.\bin\Debug\Concept.dll
+.\bin\Debug\Concept.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Concept.Test.dll
+obj\Debug\Concept.Test.pdb
+.\bin\Debug\Concept.Test.dll.config
+..\Output\Concept.Test.dll.config
+..\Output\Concept.Test.dll
+..\Output\Concept.Test.pdb

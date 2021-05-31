@@ -1,0 +1,7 @@
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\bin\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\bin\Debug\MarvellousWorks.PracticalPattern.Common.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\bin\Debug\MarvellousWorks.PracticalPattern.Common.pdb
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\obj\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.dll
+E:\Documents\设计模式_基于C#的工程化实现及扩展\MarvelousWorks.PracticalPattern_4\FactoryMethod\obj\Debug\MarvellousWorks.PracticalPattern.FactoryMethod.pdb
